@@ -1,0 +1,8 @@
+name: MLG
+version: 1.0
+main: de.mlg.near.main.Main
+author: Near78
+description: Trainiert dich ihn MLGs
+commands:
+     mlg:
+          description: Trainiert dich in MLGs
